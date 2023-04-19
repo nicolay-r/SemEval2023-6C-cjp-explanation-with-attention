@@ -17,5 +17,19 @@ We provide `cnn` and `att-cnn` models from AREnets.
 
 Language models implementation provided in a form of the jupyter notebooks.
 
-## References
+## Projects
+
 * [AREnets project](https://github.com/nicolay-r/AREnets)
+
+## Reference
+```
+@article{rusnachenko2023ncluteam,
+  title={nclu\_team at SemEval-2023 Task 6C1 and 6C2: Attention-based Approaches for Large Court Judgement Prediction with Explanation},
+  author={Nicolay, Rusnachenko and Thanet, Markchom and Huizhi, Liang},
+  booktitle = "Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)",
+  month = jul,
+  year = "2023",
+  address = "Toronto, Canada",
+  publisher = "Association for Computational Linguistics"
+}
+```
